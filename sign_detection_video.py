@@ -108,7 +108,7 @@ while(True):
         min_score_thresh=0.80)
 
     # All the results have been drawn on the frame, so it's time to display it.
-    cv2.imshow('Object detector', frame)
+    cv2.imshow('Traffic Sign detector', frame)
     out.write(frame)
 
     # Press 'q' to quit
