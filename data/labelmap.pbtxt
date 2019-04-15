@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'duraklamak_ve_park_yasaktir'
+}
+
+item {
+  id: 2
+  name: 'girisi_olmayan_yol'
+}
+
+item {
+  id: 3
+  name: 'yaya_gecidi'
+}
+
+item {
+  id: 4
+  name: 'yol_ver'
+}
