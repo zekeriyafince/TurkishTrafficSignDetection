@@ -5,9 +5,9 @@
 
 ## Requirements
 
-- [Anaconda / Python 3.7](https://www.anaconda.com/download)
-- [Tensorflow](http://www.tensorflow.org)
-- [OpenCV 3.4](http://opencv.org/)
+- [Anaconda / Python '3.7'](https://www.anaconda.com/download)
+- [Tensorflow '1.13.1'](http://www.tensorflow.org)
+- [OpenCV '3.4'](http://opencv.org/)
 
 ## How to Run
 Default images file "test_images/*.jpg"
